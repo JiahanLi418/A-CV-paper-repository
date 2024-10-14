@@ -1,6 +1,7 @@
 # A-CV-paper-repository
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
 ## Year 2024
+### VLM
 1. [CVPR 2024] **Active Prompt Learning in Visual Language Models**[[paper]](https://arxiv.org/pdf/2311.11178)
 ### VPR
 1. [ICLR 2024] **TOWARDS SEAMLESS ADAPTATION OF PRE-TRAINED MODELS FOR VISUAL PLACE RECOGNITION**[[paper]](https://arxiv.org/pdf/2402.14505)
