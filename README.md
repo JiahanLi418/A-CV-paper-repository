@@ -10,3 +10,6 @@ As a new postgraduate, this repository contains a collection of papers on comput
 4. [ECCV 2024] **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**[[paper]](https://arxiv.org/pdf/2409.18049)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
+## The Year Before 2021
+### VPR
+1. [CVPR 2016] **NetVLAD: CNN architecture for weakly supervised place recognition**[[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
