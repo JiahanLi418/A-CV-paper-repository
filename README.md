@@ -11,6 +11,6 @@ As a new postgraduate, this repository contains a collection of papers on comput
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ## The Year Before 2021
-### VPR
+### VPR/Image Retrieval
 1. [CVPR 2016] **NetVLAD: CNN architecture for weakly supervised place recognition**[[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
 2. [TPAMI 2018] **Fine-tuning CNN Image Retrieval with No Human Annotation**[[paper]](https://arxiv.org/pdf/1711.02512)
