@@ -8,6 +8,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 2. [CVPR 2024] **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual  Place Recognition**[[paper]](https://arxiv.org/pdf/2402.19231)
 3. [AAAI 2024] **Deep Homography Estimation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.16086)
 4. [ECCV 2024] **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**[[paper]](https://arxiv.org/pdf/2409.18049)
+5. [ECCV 2024] **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2409.19293)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### Unclassed
