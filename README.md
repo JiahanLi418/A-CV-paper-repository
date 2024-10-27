@@ -14,6 +14,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### Unclassed
 1. **DINOv2: Learning Robust Visual Features without Supervision**[[paper]](https://arxiv.org/pdf/2304.07193)
+## Year 2023
+1. [ICCV 2023] **GlobalFeaturesareAllYouNeedforImageRetrievalandReranking**[[paper]](https://arxiv.org/pdf/2308.06954)
 ## The Year Before 2021
 ### VPR/Image Retrieval
 1. [CVPR 2016] **NetVLAD: CNN architecture for weakly supervised place recognition**[[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
