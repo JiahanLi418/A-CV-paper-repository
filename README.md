@@ -10,6 +10,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 4. [ECCV 2024] **Revisit Anything: Visual Place Recognition via Image Segment Retrieval**[[paper]](https://arxiv.org/pdf/2409.18049)
 5. [ECCV 2024] **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2409.19293)
 6. [ECCV 2024] **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2407.02422)
+7. [CVPR 2024] **EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Berton_EarthLoc_Astronaut_Photography_Localization_by_Indexing_Earth_from_Space_CVPR_2024_paper.pdf)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### Unclassed
