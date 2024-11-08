@@ -11,12 +11,15 @@ As a new postgraduate, this repository contains a collection of papers on comput
 5. [ECCV 2024] **VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2409.19293)
 6. [ECCV 2024] **Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2407.02422)
 7. [CVPR 2024] **EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Berton_EarthLoc_Astronaut_Photography_Localization_by_Indexing_Earth_from_Space_CVPR_2024_paper.pdf)
+8. [CVPR 2024] **BoQ: A Place is Worth a Bag of Learnable Queries**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ali-bey_BoQ_A_Place_is_Worth_a_Bag_of_Learnable_Queries_CVPR_2024_paper.pdf)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### Unclassed
 1. **DINOv2: Learning Robust Visual Features without Supervision**[[paper]](https://arxiv.org/pdf/2304.07193)
 ## Year 2023
+### VPR
 1. [ICCV 2023] **GlobalFeaturesareAllYouNeedforImageRetrievalandReranking**[[paper]](https://arxiv.org/pdf/2308.06954)
+2. [ICCV 2023] **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832)
 ## The Year Before 2021
 ### VPR/Image Retrieval
 1. [CVPR 2016] **NetVLAD: CNN architecture for weakly supervised place recognition**[[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
