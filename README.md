@@ -16,6 +16,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### Unclassed
 1. **DINOv2: Learning Robust Visual Features without Supervision**[[paper]](https://arxiv.org/pdf/2304.07193)
+2. **Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )**[[paper]](https://arxiv.org/pdf/2402.10376)
 ## Year 2023
 ### VPR
 1. [ICCV 2023] **GlobalFeaturesareAllYouNeedforImageRetrievalandReranking**[[paper]](https://arxiv.org/pdf/2308.06954)
