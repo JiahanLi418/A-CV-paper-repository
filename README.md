@@ -1,6 +1,8 @@
 # A-CV-paper-repository
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
 ## Year 2024
+### Retrieval
+1. [CVPR 2024] **Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sarkar_Dual_Pose-invariant_Embeddings_Learning_Category_and_Object-specific_Discriminative_Representations_for_CVPR_2024_paper.pdf)
 ### VLM
 1. [CVPR 2024] **Active Prompt Learning in Visual Language Models**[[paper]](https://arxiv.org/pdf/2311.11178)
 ### VPR
@@ -17,7 +19,11 @@ As a new postgraduate, this repository contains a collection of papers on comput
 ### Unclassed
 1. **DINOv2: Learning Robust Visual Features without Supervision**[[paper]](https://arxiv.org/pdf/2304.07193)
 2. **Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )**[[paper]](https://arxiv.org/pdf/2402.10376)
+3. **Unsupervised Part Discovery via Dual Representation Alignment**[[paper]](https://arxiv.org/pdf/2408.08108)
+4. **PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**[[paper]](https://arxiv.org/pdf/2407.04538)
 ## Year 2023
+### Net
+1. [ICCV 2023] **PDiscoNet: Semantically consistent part discovery for fine-grained recognition**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.pdf)
 ### VPR
 1. [ICCV 2023] **GlobalFeaturesareAllYouNeedforImageRetrievalandReranking**[[paper]](https://arxiv.org/pdf/2308.06954)
 2. [ICCV 2023] **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832)
