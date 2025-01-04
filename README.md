@@ -17,13 +17,15 @@ As a new postgraduate, this repository contains a collection of papers on comput
 9. [Neurips 2024] **EMVP:Embracing Visual Foundation Model for isual Place Recognition with Centroid-Free Probing**[[paper]](https://openreview.net/pdf?id=V6w7keoTqn)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
+### ReID
+1. **Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)
 ### Unsupervised
 1. [TPAMI 2024]**Unsupervised Part Discovery via Dual Representation Alignment**[[paper]](https://arxiv.org/pdf/2408.08108)
 ### Unclassed
 1. **DINOv2: Learning Robust Visual Features without Supervision**[[paper]](https://arxiv.org/pdf/2304.07193)
 2. **Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE )**[[paper]](https://arxiv.org/pdf/2402.10376)
 3. **PDiscoFormer: Relaxing Part Discovery Constraints with Vision Transformers**[[paper]](https://arxiv.org/pdf/2407.04538)
-4. **Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)
+
 ## Year 2023
 ### Net
 1. [ICCV 2023] **PDiscoNet: Semantically consistent part discovery for fine-grained recognition**[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/van_der_Klis_PDiscoNet_Semantically_consistent_part_discovery_for_fine-grained_recognition_ICCV_2023_paper.pdf)
