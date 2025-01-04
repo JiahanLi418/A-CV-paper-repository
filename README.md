@@ -30,6 +30,8 @@ As a new postgraduate, this repository contains a collection of papers on comput
 1. [ICCV 2023] **GlobalFeaturesareAllYouNeedforImageRetrievalandReranking**[[paper]](https://arxiv.org/pdf/2308.06954)
 2. [ICCV 2023] **EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832)
 ## The Year Before 2021
+### Efficient Neural Networks
+1.[CVPR 2021] **Differentiable Patch Selection for Image Recognition**[[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Cordonnier_Differentiable_Patch_Selection_for_Image_Recognition_CVPR_2021_paper.pdf)
 ### VPR/Image Retrieval
 1. [CVPR 2016] **NetVLAD: CNN architecture for weakly supervised place recognition**[[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf)
 2. [TPAMI 2018] **Fine-tuning CNN Image Retrieval with No Human Annotation**[[paper]](https://arxiv.org/pdf/1711.02512)
