@@ -5,6 +5,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 1. [CVPR 2024] **Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sarkar_Dual_Pose-invariant_Embeddings_Learning_Category_and_Object-specific_Discriminative_Representations_for_CVPR_2024_paper.pdf)
 ### VLM
 1. [CVPR 2024] **Active Prompt Learning in Visual Language Models**[[paper]](https://arxiv.org/pdf/2311.11178)
+2. [ICML 2024] **Visual-Text Cross Alignment: Refining the Similarity Score in Vision-Language Models**[[paper]](https://arxiv.org/abs/2406.02915)
 ### VPR
 1. [ICLR 2024] **TOWARDS SEAMLESS ADAPTATION OF PRE-TRAINED MODELS FOR VISUAL PLACE RECOGNITION**[[paper]](https://arxiv.org/pdf/2402.14505)
 2. [CVPR 2024] **CricaVPR: Cross-image Correlation-aware Representation Learning for Visual  Place Recognition**[[paper]](https://arxiv.org/pdf/2402.19231)
