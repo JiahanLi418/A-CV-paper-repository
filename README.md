@@ -16,7 +16,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 7. [CVPR 2024] **EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Berton_EarthLoc_Astronaut_Photography_Localization_by_Indexing_Earth_from_Space_CVPR_2024_paper.pdf)
 8. [CVPR 2024] **BoQ: A Place is Worth a Bag of Learnable Queries**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ali-bey_BoQ_A_Place_is_Worth_a_Bag_of_Learnable_Queries_CVPR_2024_paper.pdf)
 9. [Neurips 2024] **EMVP:Embracing Visual Foundation Model for isual Place Recognition with Centroid-Free Probing**[[paper]](https://openreview.net/pdf?id=V6w7keoTqn)
-10.[CVPR 2024][Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/pdf/2311.15937)
+10. [CVPR 2024][Optimal Transport Aggregation for Visual Place Recognition](https://arxiv.org/pdf/2311.15937)
 ### Clustering
 1. [ICML 2024] **Image Clustering with External Guidance**[[paper]](https://arxiv.org/pdf/2310.11989)
 ### ReID
