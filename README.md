@@ -2,6 +2,7 @@
 As a new postgraduate, this repository contains a collection of papers on computer vision and artificial intelligence to facilitate my learning and document my progress.
 ## Year 2025
 1. [ICLR 2025] [EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition](https://openreview.net/pdf?id=NSpe8QgsCB)
+2. [CVPR 2025] [AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification](https://arxiv.org/pdf/2503.08121)
 ## Year 2024
 ### Retrieval
 1. [CVPR 2024] **Dual Pose-invariant Embeddings: Learning Category and Object-specific Discriminative Representations for Recognition and Retrieval**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sarkar_Dual_Pose-invariant_Embeddings_Learning_Category_and_Object-specific_Discriminative_Representations_for_CVPR_2024_paper.pdf)
