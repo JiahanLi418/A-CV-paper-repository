@@ -25,6 +25,7 @@ As a new postgraduate, this repository contains a collection of papers on comput
 1. [CVPR 2024] **Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)
 2. [CVPR 2024][View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf)
 3. [CVPR 2024][Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification](https://arxiv.org/pdf/2412.00433)
+4. [CVPR 2024][A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)
 ### Unsupervised
 1. [TPAMI 2024]**Unsupervised Part Discovery via Dual Representation Alignment**[[paper]](https://arxiv.org/pdf/2408.08108)
 ### Unclassed
