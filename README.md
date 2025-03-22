@@ -11,7 +11,7 @@
 # 
 
 # Visual Place Recognition
-1. 2025-ICLR-**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**[[paper]](https://openreview.net/pdf?id=NSpe8QgsCB)
+1. 2025-ICLR-**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**[[paper]](https://openreview.net/pdf?id=NSpe8QgsCB) [code]
 2. 2024-ICLR-**TOWARDS SEAMLESS ADAPTATION OF PRE-TRAINED MODELS FOR VISUAL PLACE RECOGNITION**[[paper]](https://arxiv.org/pdf/2402.14505) [[code]](https://github.com/Lu-Feng/SelaVPR)
 3. 2024-CVPR-**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual  Place Recognition**[[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR)
 4. 2024-AAAI-**Deep Homography Estimation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.16086) [[code]](https://github.com/Lu-Feng/DHE-VPR)
