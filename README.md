@@ -24,3 +24,7 @@
 11. 2024-CVPR-**Optimal Transport Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
 12. 2023-ICCV-**Global Features are All You Need for Image Retrievaland Reranking**[[paper]](https://arxiv.org/pdf/2308.06954) [[code]](https://github.com/ShihaoShao-GH/SuperGlobal)
 13. 2023-ICCV-**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832) [[code]](https://github.com/gmberton/EigenPlaces)
+
+#
+
+# News
