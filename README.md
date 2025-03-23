@@ -2,11 +2,12 @@
 #
 
 # Re-identification
-1. 2025-CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
-2. 2024-CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
-3. 2024-CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
-4. 2024-CVPR-**Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification**[[paper]](https://arxiv.org/pdf/2412.00433) [[code]](https://github.com/YuhaiW/reidselecttoken)
-5. 2024-CVPR-**A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf) [[code]](https://github.com/YzXian16/PromptSG)
+1. 2025-CVPR-**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**[[paper]](https://arxiv.org/pdf/2503.06965) [[code]](https://github.com/wangshining681/SeCap-AGPReID)
+2. 2025-CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
+3. 2024-CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
+4. 2024-CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
+5. 2024-CVPR-**Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification**[[paper]](https://arxiv.org/pdf/2412.00433) [[code]](https://github.com/YuhaiW/reidselecttoken)
+6. 2024-CVPR-**A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf) [[code]](https://github.com/YzXian16/PromptSG)
 
 # 
 
