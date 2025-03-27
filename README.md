@@ -29,3 +29,4 @@
 #
 
 # News
+1. 2025-CVPR-**From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved  Visible-Infrared Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.12232) [[code]](https://github.com/Joey623/L2RW)
