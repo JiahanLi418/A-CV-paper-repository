@@ -34,4 +34,5 @@
 3. 2024-NeurIPS-**Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/d7ae0d47fe6a8dfeb6a149be03ea89ce-Paper-Conference.pdf) [code]
 4. 2024-NeurIPS-**Generalizable Person Re-identification via Balancing Alignment and Uniformity**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/53fba4404ebecf9730dc8919b71d4d22-Paper-Conference.pdf) [[code]](https://github.com/yoonkicho/BAU)
 5. 2025-ICLR-**Exploring the Camera Bias of Person Re-Identification**[[paper]](https://arxiv.org/pdf/2502.10195) [code]
+6. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 
