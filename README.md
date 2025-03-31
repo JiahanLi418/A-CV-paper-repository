@@ -39,5 +39,6 @@
 8. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
 9. 2024-ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code](https://github.com/AnyLoc/AnyLoc)
 10. 2023-ICCV-**Person Re-identification Method Person Re-identification Method**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
-11. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
+11. 2023-AAAI-**CLIP-ReID: Exploiting Vision-Language Model for Image Re-identifcation without Concrete Text Labels**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225/24997) [[code]](https://github.com/Syliz517/CLIP-ReID)
+12. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 
