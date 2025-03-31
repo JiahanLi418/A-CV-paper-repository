@@ -37,7 +37,7 @@
 6. 2024-PR-**Multiple-environment Self-adaptive Network for aerial-view geo-localization**[[paper]](https://www.sciencedirect.com/science/article/pii/S0031320324001146) [code]
 7. 2024-ECCV-**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching**[[paper]](https://arxiv.org/pdf/2311.12751) [[code]](https://github.com/MultimodalGeo/GeoText-1652)
 8. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
-9. 2023-ICCV-**Person Re-identification Method Person Re-identification Method**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
-10. 2024-ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code](https://github.com/AnyLoc/AnyLoc)
+9. 2024-ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code](https://github.com/AnyLoc/AnyLoc)
+10. 2023-ICCV-**Person Re-identification Method Person Re-identification Method**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
 11. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 
