@@ -35,6 +35,8 @@
 #
 
 # News
-
+1. 2024-ICCV-**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**[[paper]](https://arxiv.org/pdf/2407.15663) [[code]](https://github.com/alexmelekhin/MSSPlace)
+2. 2025-Arxiv-**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
+3. 2019-ICCV-**TextPlace: Visual Place Recognition and Topological Localization Through Reading Scene Texts**[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hong_TextPlace_Visual_Place_Recognition_and_Topological_Localization_Through_Reading_Scene_ICCV_2019_paper.pdf) [[code]]
  
 
