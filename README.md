@@ -11,7 +11,8 @@
 7. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
 8. 2024-Arxiv-**CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382) [code]
 9. 2023-AAAI-**CLIP-ReID: Exploiting Vision-Language Model for Image Re-identifcation without Concrete Text Labels**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225/24997) [[code]](https://github.com/Syliz517/CLIP-ReID)
-10. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
+10. 2023-ICCV-**Person Re-identification Method Using Text Description Through CLIP**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
+11. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 
 # 
 
@@ -34,6 +35,6 @@
 #
 
 # News
-1. 2023-ICCV-**Person Re-identification Method Using Text Description Through CLIP**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
+
  
 
