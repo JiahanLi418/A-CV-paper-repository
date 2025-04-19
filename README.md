@@ -21,7 +21,7 @@
 #
 ## ICLR
 1. 2025-ICLR-**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**[[paper]](https://openreview.net/pdf?id=NSpe8QgsCB) [code]
-2. 2024-ICLR-**Towards Seamless Adaptation of Pre-Trained Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.14505) [[code]](https://github.com/Lu-Feng/SelaVPR)
+2. 2024-ICLR-**SelaVPR:Towards Seamless Adaptation of Pre-Trained Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.14505) [[code]](https://github.com/Lu-Feng/SelaVPR)
 #
 ## ICCV
 1. 2024-ICCV-**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**[[paper]](https://arxiv.org/pdf/2407.15663) [[code]](https://github.com/alexmelekhin/MSSPlace)
