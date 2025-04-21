@@ -43,6 +43,8 @@
 4. 2025-Arxiv-**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
 #
 ## News
-
+1. 2024-CVPR-**Day-Night Cross-domain Vehicle Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf) [[code]](https://github.com/chenjingong/DN-ReID)
+2. 2024-CVPR-**Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/yangbincv/SDCL)
+3. 2024-CVPR-**Noisy-Correspondence Learning for Text-to-Image Person Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)[[code]](https://github.com/QinYang79/RDE/)
  
 
