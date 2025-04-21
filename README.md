@@ -3,10 +3,11 @@
 ## CVPR
 1. 2025-CVPR-**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**[[paper]](https://arxiv.org/pdf/2503.06965) [[code]](https://github.com/wangshining681/SeCap-AGPReID)
 2. 2025-CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
-3. 2024-CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
-4. 2024-CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
-5. 2024-CVPR-**Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification**[[paper]](https://arxiv.org/pdf/2412.00433) [[code]](https://github.com/YuhaiW/reidselecttoken)
-6. 2024-CVPR-**A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf) [[code]](https://github.com/YzXian16/PromptSG)
+3. 2025-CVPR-**IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification**[[paper]](https://arxiv.org/pdf/2503.10324) [[code]](https://github.com/924973292/IDEA)
+4. 2024-CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
+5. 2024-CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
+6. 2024-CVPR-**Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification**[[paper]](https://arxiv.org/pdf/2412.00433) [[code]](https://github.com/YuhaiW/reidselecttoken)
+7. 2024-CVPR-**A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf) [[code]](https://github.com/YzXian16/PromptSG)
 #
 ## Others
 1. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
@@ -43,8 +44,12 @@
 4. 2025-Arxiv-**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
 #
 ## News
-1. 2024-CVPR-**Day-Night Cross-domain Vehicle Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf) [[code]](https://github.com/chenjingong/DN-ReID)
-2. 2024-CVPR-**Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/yangbincv/SDCL)
-3. 2024-CVPR-**Noisy-Correspondence Learning for Text-to-Image Person Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)[[code]](https://github.com/QinYang79/RDE/)
+1. 2025-CVPR-**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**[[paper]](https://arxiv.org/pdf/2503.09962) [[code]](https://github.com/sssaury/HAM)
+2. 2025-AAAI-**CDE-Learning: Camera Deviation Elimination Learning for Unsupervised Person Re-identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32691/34846) [[code]](https://github.com/zsszyx/CDE-Learning)
+3. 2025-AAAI-**Infer the Whole from a Glimpse of a Part: Keypoint-Based Knowledge Graph for Vehicle Re-Identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32630/34785) [code]
+4. 2025-AAAI-**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32811/34966) [[code]](https://github.com/chenshunpeng/FoL)
+5. 2024-CVPR-**Day-Night Cross-domain Vehicle Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf) [[code]](https://github.com/chenjingong/DN-ReID)
+6. 2024-CVPR-**Shallow-Deep Collaborative Learning for Unsupervised Visible-Infrared**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Shallow-Deep_Collaborative_Learning_for_Unsupervised_Visible-Infrared_Person_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/yangbincv/SDCL)
+7. 2024-CVPR-**Noisy-Correspondence Learning for Text-to-Image Person Re-identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)[[code]](https://github.com/QinYang79/RDE/)
  
 
