@@ -47,7 +47,7 @@
 1. 2025-CVPR-**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**[[paper]](https://arxiv.org/pdf/2503.09962) [[code]](https://github.com/sssaury/HAM)
 2. 2025-AAAI-**CDE-Learning: Camera Deviation Elimination Learning for Unsupervised Person Re-identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32691/34846) [[code]](https://github.com/zsszyx/CDE-Learning)
 3. 2025-AAAI-**Infer the Whole from a Glimpse of a Part: Keypoint-Based Knowledge Graph for Vehicle Re-Identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32630/34785) [code]
-4. 2025-AAAI-**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32811/34966) [[code]](https://github.com/chenshunpeng/FoL)
+4. 2025-AAAI-**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2504.09881) [[code]](https://github.com/chenshunpeng/FoL)
 5. 2025-AAAI-**TokenMatcher: Diverse Tokens Matching for Unsupervised Visible-Infrared Person Re-Identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32855/35010) [[code]](https://github.com/liulekai123/TokenMatcher)
 6. 2025-AAAI-**CLIP-driven View-aware Prompt Learning for Unsupervised Vehicle Re-identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32962/35117) [code]
 7. 2025-AAAI-**CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33039/35194) [[code]](https://github.com/AsuradaYuci/CLIMB-ReID)
