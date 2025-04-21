@@ -1,16 +1,19 @@
 #
 # Re-identification
+## CVPR
 1. 2025-CVPR-**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**[[paper]](https://arxiv.org/pdf/2503.06965) [[code]](https://github.com/wangshining681/SeCap-AGPReID)
 2. 2025-CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
 3. 2024-CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
 4. 2024-CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
 5. 2024-CVPR-**Dynamic Token Selective Transformer for Aerial-Ground Person Re-Identification**[[paper]](https://arxiv.org/pdf/2412.00433) [[code]](https://github.com/YuhaiW/reidselecttoken)
 6. 2024-CVPR-**A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf) [[code]](https://github.com/YzXian16/PromptSG)
-7. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
-8. 2024-Arxiv-**CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382) [code]
-9. 2023-AAAI-**CLIP-ReID: Exploiting Vision-Language Model for Image Re-identifcation without Concrete Text Labels**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225/24997) [[code]](https://github.com/Syliz517/CLIP-ReID)
-10. 2023-ICCV-**Person Re-identification Method Using Text Description Through CLIP**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
-11. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
+#
+## Others
+1. 2024-ECCV-**Adaptive High-Frequency Transformer for Diverse Wildlife Re-Identification**[[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf) [[code]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06054.pdf)
+2. 2024-Arxiv-**CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382) [code]
+3. 2023-AAAI-**CLIP-ReID: Exploiting Vision-Language Model for Image Re-identifcation without Concrete Text Labels**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225/24997) [[code]](https://github.com/Syliz517/CLIP-ReID)
+4. 2023-ICCV-**Person Re-identification Method Using Text Description Through CLIP**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
+5. 2020-Arxiv-**FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 # 
 # Visual Place Recognition
 ## CVPR
