@@ -39,9 +39,10 @@
 #
 ## Others
 1. 2024-Neurips-**EMVP:Embracing Visual Foundation Model for isual Place Recognition with Centroid-Free Probing**[[paper]](https://openreview.net/pdf?id=V6w7keoTqn) [[code]](https://github.com/vincentqqb/EMVP)
-2. 2024-AAAI-**Deep Homography Estimation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.16086) [[code]](https://github.com/Lu-Feng/DHE-VPR)
-3. 2024-ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code]](https://github.com/AnyLoc/AnyLoc)
-4. 2025-Arxiv-**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
+2. 2024-Neurips-**SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/Lu-Feng/SuperVLAD)
+3. 2024-AAAI-**Deep Homography Estimation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.16086) [[code]](https://github.com/Lu-Feng/DHE-VPR)
+4. 2024-ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code]](https://github.com/AnyLoc/AnyLoc)
+5. 2025-Arxiv-**TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
 #
 ## News
 1. 2025-CVPR-**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**[[paper]](https://arxiv.org/pdf/2503.09962) [[code]](https://github.com/sssaury/HAM)
