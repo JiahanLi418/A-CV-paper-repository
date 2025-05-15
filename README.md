@@ -54,4 +54,5 @@
 - CVPR-**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**
 - CVPR-**GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/pdf/2403.09974) [[code]](https://github.com/enguangW/GET)
 - CVPR-**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
+- **DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**[[paper]](https://arxiv.org/pdf/2505.04793) [[code]](https://github.com/kailashhambarde/DetReIDX)
 
