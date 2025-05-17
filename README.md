@@ -55,4 +55,10 @@
 - CVPR-**GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/pdf/2403.09974) [[code]](https://github.com/enguangW/GET)
 - CVPR-**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
 - **DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**[[paper]](https://arxiv.org/pdf/2505.04793) [[code]](https://github.com/kailashhambarde/DetReIDX)
+- CVPR-2025-**Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval**
+- CVPR-2025-**Incorporating Dense Knowledge Alignment into Unified Multimodal Representation Models**
+- CVPR-2025-**UNIALIGN: Scaling Multimodal Alignment within One Unified Model**
+- ICML-2025-**Multi-Modal Object Re-identification via Sparse Mixture-of-Experts**
+- ICML-2025-**FlexiReID: Adaptive Mixture of Expert for Multi-modal Person Re-Identification**
+- 
 
