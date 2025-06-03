@@ -2,6 +2,7 @@
 ## Preprints
 - **CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382)
 - **FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
+- **DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**[[paper]](https://arxiv.org/pdf/2505.04793) [[code]](https://github.com/kailashhambarde/DetReIDX)
 ## 2025
 - CVPR-**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**[[paper]](https://arxiv.org/pdf/2503.06965) [[code]](https://github.com/wangshining681/SeCap-AGPReID)
 - CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
@@ -50,15 +51,20 @@
 - ICCV-**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832) [[code]](https://github.com/gmberton/EigenPlaces)
 ## 2019
 - ICCV-**TextPlace: Visual Place Recognition and Topological Localization Through Reading Scene Texts**[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hong_TextPlace_Visual_Place_Recognition_and_Topological_Localization_Through_Reading_Scene_ICCV_2019_paper.pdf)
-# News
-- CVPR-**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**
+# Semi-supervised Learning
+## 2025
 - CVPR-**GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/pdf/2403.09974) [[code]](https://github.com/enguangW/GET)
-- CVPR-**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
-- **DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**[[paper]](https://arxiv.org/pdf/2505.04793) [[code]](https://github.com/kailashhambarde/DetReIDX)
+
+# News
+- **ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**[[paper]](https://arxiv.org/pdf/2502.15682)
+- **DART3: Leveraging Distance for Test Time Adaptation in Person Re-Identification**[[paper]](https://arxiv.org/pdf/2505.18337)
+## Waiting
+- CVPR-2025**Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement**
+- CVPR-2025**Less Attention is More: Prompt Transformer for Generalized Category Discovery**
 - CVPR-2025-**Fuzzy Multimodal Learning for Trusted Cross-modal Retrieval**
 - CVPR-2025-**Incorporating Dense Knowledge Alignment into Unified Multimodal Representation Models**
 - CVPR-2025-**UNIALIGN: Scaling Multimodal Alignment within One Unified Model**
 - ICML-2025-**Multi-Modal Object Re-identification via Sparse Mixture-of-Experts**
 - ICML-2025-**FlexiReID: Adaptive Mixture of Expert for Multi-modal Person Re-Identification**
-- 
+
 
