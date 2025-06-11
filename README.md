@@ -14,6 +14,8 @@
 - AAAI-**CLIP-driven View-aware Prompt Learning for Unsupervised Vehicle Re-identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/32962/35117)
 - AAAI-**CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33039/35194) [[code]](https://github.com/AsuradaYuci/CLIMB-ReID)
 - AAAI-**NightReID: A Large-Scale Nighttime Person Re-Identification Benchmark**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/33142/352970) [[code]](https://github.com/msm8976/NightReID)
+- CVPR-**DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_DIFFER_Disentangling_Identity_Features_via_Semantic_Cues_for_Clothes-Changing_Person_CVPR_2025_paper.pdf)
+- CVPR-**Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Pang_Identity-Clothing_Similarity_Modeling_for_Unsupervised_Clothing_Change_Person_Re-Identification_CVPR_2025_paper.pdf）
 ## 2024
 - CVPR-**Magic Tokens: Select Diverse Tokens for Multi-modal Object Re-Identification**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf) [[code]](https://github.com/924973292/EDITOR)
 - CVPR-**View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) [[code]](https://github.com/LinlyAC/VDT-AGPReID)
@@ -54,6 +56,11 @@
 # Semi-supervised Learning
 ## 2025
 - CVPR-**GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/pdf/2403.09974) [[code]](https://github.com/enguangW/GET)
+
+# Unsupervised Learning
+## 2025
+- CVPR-**Adaptive Part Learning for Fine-Grained Generalized Category Discovery:A Plug-and-Play Enhancement**[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Dai_Adaptive_Part_Learning_for_Fine-Grained_Generalized_Category_Discovery_A_Plug-and-Play_CVPR_2025_paper.pdf)
+
 
 # News
 - **ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**[[paper]](https://arxiv.org/pdf/2502.15682)
