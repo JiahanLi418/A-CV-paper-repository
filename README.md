@@ -28,31 +28,23 @@
 ## 2023
 - AAAI-**CLIP-ReID: Exploiting Vision-Language Model for Image Re-identifcation without Concrete Text Labels**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225/24997) [[code]](https://github.com/Syliz517/CLIP-ReID)
 - ICCV-**Person Re-identification Method Using Text Description Through CLIP**[[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049924) [[code]](https://github.com/yoonkicho/BAU)
-# Visual Place Recognition
-## Preprints
-- **TextInPlace: Indoor Visual Place Recognition in Repetitive Structures with Scene Text Spotting and Verification**[[paper]](https://arxiv.org/pdf/2503.06501) [[code]](https://github.com/HqiTao/TextInPlace)
-## 2025
-- ICLR-**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**[[paper]](https://openreview.net/pdf?id=NSpe8QgsCB)
-- AAAI-**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2504.09881) [[code]](https://github.com/chenshunpeng/FoL)
-## 2024
-- CVPR-**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual  Place Recognition**[[paper]](https://arxiv.org/pdf/2402.19231) [[code]](https://github.com/Lu-Feng/CricaVPR)
-- CVPR-**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Berton_EarthLoc_Astronaut_Photography_Localization_by_Indexing_Earth_from_Space_CVPR_2024_paper.pdf) [[code]](https://github.com/gmberton/EarthLoc)
-- CVPR-**BoQ: A Place is Worth a Bag of Learnable Queries**[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ali-bey_BoQ_A_Place_is_Worth_a_Bag_of_Learnable_Queries_CVPR_2024_paper.pdf) [[code]](https://github.com/amaralibey/Bag-of-Queries)
-- CVPR-**Optimal Transport Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2311.15937) [[code]](https://github.com/serizba/salad)
-- Neurips-**EMVP:Embracing Visual Foundation Model for isual Place Recognition with Centroid-Free Probing**[[paper]](https://openreview.net/pdf?id=V6w7keoTqn) [[code]](https://github.com/vincentqqb/EMVP)
-- Neurips-**SuperVLAD: Compact and Robust Image Descriptors for Visual Place Recognition**[[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/file/0b135d408253205ba501d55c6539bfc7-Paper-Conference.pdf) [[code]](https://github.com/Lu-Feng/SuperVLAD)
-- AAAI-**Deep Homography Estimation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.16086) [[code]](https://github.com/Lu-Feng/DHE-VPR)
-- ICLR-**SelaVPR:Towards Seamless Adaptation of Pre-Trained Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2402.14505) [[code]](https://github.com/Lu-Feng/SelaVPR)
-- ICCV-**MSSPlace: Multi-Sensor Place Recognition with Visual and Text Semantics**[[paper]](https://arxiv.org/pdf/2407.15663) [[code]](https://github.com/alexmelekhin/MSSPlace)
-- ICRA-**AnyLoc: Towards Universal Visual Place Recognition**[[paper]](https://anyloc.github.io/assets/AnyLoc.pdf) [[code]](https://github.com/AnyLoc/AnyLoc)
-- ECCV-**Revisit Anything: Visual Place Recognition via Image Segment Retrieval**[[paper]](https://arxiv.org/pdf/2409.18049) [[code]](https://github.com/AnyLoc/Revisit-Anything)
-- ECCV-**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2409.19293) [[code]](https://github.com/Ahmedest61/VLAD-BuFF)
-- ECCV-**Close, But Not There: Boosting Geographic Distance Sensitivity in Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2407.02422) [[code]](https://github.com/serizba/cliquemining)
-## 2023
-- ICCV-**Global Features are All You Need for Image Retrievaland Reranking**[[paper]](https://arxiv.org/pdf/2308.06954) [[code]](https://github.com/ShihaoShao-GH/SuperGlobal)
-- ICCV-**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**[[paper]](https://arxiv.org/pdf/2308.10832) [[code]](https://github.com/gmberton/EigenPlaces)
-## 2019
-- ICCV-**TextPlace: Visual Place Recognition and Topological Localization Through Reading Scene Texts**[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hong_TextPlace_Visual_Place_Recognition_and_Topological_Localization_Through_Reading_Scene_ICCV_2019_paper.pdf)
+# Text-image re-identification
+- 2025-CVPR-Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Modeling_Thousands_of_Human_Annotators_for_Generalizable_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf)
+- 2025-CVPR-Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf)
+- 2025-CVPR-IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification[[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_IDEA_Inverted_Text_with_Cooperative_Deformable_Aggregation_for_Multi-modal_Object_CVPR_2025_paper.pdf)
+- 2025-AAAI-CLIP-driven View-aware Prompt Learning for Unsupervised Vehicle Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32962)
+- 2025-AAAI-CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/33039)
+- 2024-CVPR-A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)
+- 2024-CVPR-Noisy-Correspondence Learning for Text-to-Image Person Re-identification[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qin_Noisy-Correspondence_Learning_for_Text-to-Image_Person_Re-identification_CVPR_2024_paper.pdf)
+- 2024-CVPR-Instruct-ReID: A Multi-purpose Person Re-identification Task with Instructions[[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Instruct-ReID_A_Multi-purpose_Person_Re-identification_Task_with_Instructions_CVPR_2024_paper.pdf)
+- 2024-AAAI-Text-Based Occluded Person Re-identification via Multi-Granularity Contrastive Consistency Learning[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28433)
+- 2024-AAAI-TF-CLIP: Learning Text-Free CLIP for Video-Based Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28500)
+- 2024-AAAI-Multi-Prompts Learning with Cross-Modal Alignment for Attribute-Based Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28524)
+- 2024-AAAI-Unifying Multi-Modal Uncertainty Modeling and Semantic Alignment for Text-to-Image Person Re-identification[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28585)
+- 2024-NeurIPS-Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification[[paper]](https://papers.neurips.cc/paper_files/paper/2024/file/d7ae0d47fe6a8dfeb6a149be03ea89ce-Paper-Conference.pdf)
+- 2023-AAAI-CLIP-ReID: Exploiting Vision-Language Model for Image Re-identification without Concrete Text Labels[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225)
+- 2023-ICCV-Unified Pre-Training with Pseudo Texts for Text-To-Image Person Re-Identification[[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Unified_Pre-Training_with_Pseudo_Texts_for_Text-To-Image_Person_Re-Identification_ICCV_2023_paper.pdf)
+
 # Semi-supervised Learning
 ## 2025
 - CVPR-**GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery**[[paper]](https://arxiv.org/pdf/2403.09974) [[code]](https://github.com/enguangW/GET)
