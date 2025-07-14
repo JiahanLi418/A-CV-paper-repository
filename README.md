@@ -1,3 +1,4 @@
+- ICCV2025-**Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method**[[paper]](https://arxiv.org/abs/2506.22027)[[code]](https://github.com/Alioth2000/Hoss-ReID)
 # Re-identification
 ## Preprints
 - **CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382)
