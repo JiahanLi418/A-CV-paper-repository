@@ -1,10 +1,12 @@
-- ICCV2025-**Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method**[[paper]](https://arxiv.org/abs/2506.22027)[[code]](https://github.com/Alioth2000/Hoss-ReID)
+# Grounding
+- ICCV 2025**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**[[paper]](https://arxiv.org/pdf/2504.07836)[[code]](https://github.com/Ideal-ljl/AerialVG)
 # Re-identification
 ## Preprints
 - **CLIP-SCGI: Synthesized Caption-Guided Inversion for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2410.09382)
 - **FastReID: A Pytorch Toolbox for General Instance Re-identification**[[paper]](https://arxiv.org/pdf/2006.02631) [[code]](https://github.com/JDAI-CV/fast-reid)
 - **DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**[[paper]](https://arxiv.org/pdf/2505.04793) [[code]](https://github.com/kailashhambarde/DetReIDX)
 ## 2025
+- ICCV-**Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method**[[paper]](https://arxiv.org/abs/2506.22027)[[code]](https://github.com/Alioth2000/Hoss-ReID)
 - CVPR-**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**[[paper]](https://arxiv.org/pdf/2503.06965) [[code]](https://github.com/wangshining681/SeCap-AGPReID)
 - CVPR-**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**[[paper]](https://arxiv.org/pdf/2503.08121) [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
 - CVPR-**IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification**[[paper]](https://arxiv.org/pdf/2503.10324) [[code]](https://github.com/924973292/IDEA)
