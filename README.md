@@ -68,5 +68,8 @@
 - CVPR-2025-**UNIALIGN: Scaling Multimodal Alignment within One Unified Model**
 - ICML-2025-**Multi-Modal Object Re-identification via Sparse Mixture-of-Experts**
 - ICML-2025-**FlexiReID: Adaptive Mixture of Expert for Multi-modal Person Re-Identification**
-
-
+- 2025-ICCV-One-Shot Knowledge Transfer for Scalable Person Re-Identification
+- 2025-ICCV-Breaking Rectangular Shackles: Cross-View Object Segmentation for Fine-Grained Object Geo-Localization
+- 2025-ICCV-TopicGeo: An Efficient Unified Framework for Geolocation
+- 2025-ICCV-GeoDistill: Geometry-Guided Self-Distillation for Weakly Supervised
+- TopicGeo: An Efficient Unified Framework for Geolocation
