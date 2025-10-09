@@ -1,3 +1,7 @@
+# Representation Learning
+-NeurIPS 2025 **Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval**[[paper]](https://arxiv.org/pdf/2311.16515)[[code]](https://github.com/Delong-liu-bupt/Composed_Person_Retrieval)
+
+
 # Grounding
 - ICCV 2025**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**[[paper]](https://arxiv.org/pdf/2504.07836)[[code]](https://github.com/Ideal-ljl/AerialVG)
 # Re-identification
