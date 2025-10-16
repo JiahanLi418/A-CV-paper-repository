@@ -4,7 +4,7 @@
 - **PARTCO: PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**[[paper]](https://arxiv.org/pdf/2509.22769)
 - CVPR 2025 **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper]](https://arxiv.org/pdf/2502.17425v1)
 - ICLR 2025 **Near, far: Patch-ordering enhances vision foundation models' scene understanding**[[paper]](https://arxiv.org/pdf/2408.11054)
-
+- ICLR 2026 **ADAST: ADAPTIVE SEMANTIC TRANSFORMATION OF VISUAL REPRESENTATION FOR TRAINING-FREE ZERO-SHOT COMPOSED IMAGE RETRIEVAL**[[paper]](https://openreview.net/attachment?id=CQ2n2H5x6c&name=pdf)
 # Grounding
 - ICCV 2025**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**[[paper]](https://arxiv.org/pdf/2504.07836)[[code]](https://github.com/Ideal-ljl/AerialVG)
 # Re-identification
