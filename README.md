@@ -5,6 +5,7 @@
 - CVPR 2025 **Introducing Visual Perception Token into Multimodal Large Language Model**[[paper]](https://arxiv.org/pdf/2502.17425v1)
 - ICLR 2025 **Near, far: Patch-ordering enhances vision foundation models' scene understanding**[[paper]](https://arxiv.org/pdf/2408.11054)
 - ICLR 2026 **ADAST: ADAPTIVE SEMANTIC TRANSFORMATION OF VISUAL REPRESENTATION FOR TRAINING-FREE ZERO-SHOT COMPOSED IMAGE RETRIEVAL**[[paper]](https://openreview.net/attachment?id=CQ2n2H5x6c&name=pdf)
+- **Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**[[paper]](https://arxiv.org/pdf/2411.19331)
 # Grounding
 - ICCV 2025**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**[[paper]](https://arxiv.org/pdf/2504.07836)[[code]](https://github.com/Ideal-ljl/AerialVG)
 # Re-identification
