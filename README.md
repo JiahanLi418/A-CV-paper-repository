@@ -1,4 +1,6 @@
 # Representation Learning
+- ICLR 2026 **CROSS-VIEW OPEN-VOCABULARY OBJECT DETECTION IN AERIAL IMAGERY**[[paper]](https://openreview.net/attachment?id=QgTA3AvUC5&name=pdf)
+- **SegMASt3R: Geometry Grounded Segment Matching**[[paper]](https://arxiv.org/pdf/2510.05051)
 - NeurIPS 2025 **Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval**[[paper]](https://arxiv.org/pdf/2311.16515)[[code]](https://github.com/Delong-liu-bupt/Composed_Person_Retrieval)
 - **Vision-Free Retrieval: Rethinking Multimodal Search with Textual Scene Descriptions**[[paper]](https://arxiv.org/pdf/2509.19203)
 - **PARTCO: PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**[[paper]](https://arxiv.org/pdf/2509.22769)
@@ -6,6 +8,7 @@
 - ICLR 2025 **Near, far: Patch-ordering enhances vision foundation models' scene understanding**[[paper]](https://arxiv.org/pdf/2408.11054)
 - ICLR 2026 **ADAST: ADAPTIVE SEMANTIC TRANSFORMATION OF VISUAL REPRESENTATION FOR TRAINING-FREE ZERO-SHOT COMPOSED IMAGE RETRIEVAL**[[paper]](https://openreview.net/attachment?id=CQ2n2H5x6c&name=pdf)
 - ICCV 2025 **Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**[[paper]](https://arxiv.org/pdf/2411.19331)
+- **No time to train! Training-Free Reference-Based Instance Segmentation**[[paper]](https://arxiv.org/pdf/2507.02798)
 # Grounding
 - ICCV 2025**AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**[[paper]](https://arxiv.org/pdf/2504.07836)[[code]](https://github.com/Ideal-ljl/AerialVG)
 # Re-identification
