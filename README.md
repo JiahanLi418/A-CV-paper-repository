@@ -1,4 +1,9 @@
 # Representation Learning
+## 10.27
+- ICLR 2026 **PRADA: Prompt-driven Dual Alignment with Actor-Critic Rewards for Aerial-Ground Person Re-Identification**[[paper]](https://openreview.net/pdf?id=UJ0pv2KKVh)
+- ICLR 2026 **ReText: Text Boosts Generalization in Image-Based Person Re-identification**[[paper]](https://openreview.net/pdf?id=Es5dr0LDau)
+- ICLR 2026 **Domain Generalizable Person Re-identification via Adversarial Dual-Stream Strategy with Local Consistency**[[paper]](https://openreview.net/pdf?id=RtjeGHURQS)
+## 10.20
 - ICLR 2026 **CROSS-VIEW OPEN-VOCABULARY OBJECT DETECTION IN AERIAL IMAGERY**[[paper]](https://openreview.net/attachment?id=QgTA3AvUC5&name=pdf)
 - **SegMASt3R: Geometry Grounded Segment Matching**[[paper]](https://arxiv.org/pdf/2510.05051)
 - NeurIPS 2025 **Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval**[[paper]](https://arxiv.org/pdf/2311.16515)[[code]](https://github.com/Delong-liu-bupt/Composed_Person_Retrieval)
