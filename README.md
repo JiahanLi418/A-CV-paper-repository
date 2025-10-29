@@ -1,6 +1,7 @@
 # Representation Learning
 ## 10.27
-- CVPR 2025 **VGGT: Visual Geometry Grounded Transformer**[[paper]](https://arxiv.org/pdf/2503.11651)<span style="font-size: 10px;">Transform for 3D</span>
+- CVPR 2025 **VGGT: Visual Geometry Grounded Transformer**[[paper]](https://arxiv.org/pdf/2503.11651)
+    #### Transform for 3D
 - ICLR 2026 **PRADA: Prompt-driven Dual Alignment with Actor-Critic Rewards for Aerial-Ground Person Re-Identification**[[paper]](https://openreview.net/pdf?id=UJ0pv2KKVh)
 - ICLR 2026 **ReText: Text Boosts Generalization in Image-Based Person Re-identification**[[paper]](https://openreview.net/pdf?id=Es5dr0LDau)
 - ICLR 2026 **Domain Generalizable Person Re-identification via Adversarial Dual-Stream Strategy with Local Consistency**[[paper]](https://openreview.net/pdf?id=RtjeGHURQS)
