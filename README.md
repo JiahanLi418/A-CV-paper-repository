@@ -1,5 +1,6 @@
 # Representation Learning
 ## 10.27
+- NeurIPS 2024**Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**[[paper]](https://arxiv.org/pdf/2410.21802)
 - CVPR 2025 **VGGT: Visual Geometry Grounded Transformer**[[paper]](https://arxiv.org/pdf/2503.11651)Transform for 3D
 - ICLR 2026 **PRADA: Prompt-driven Dual Alignment with Actor-Critic Rewards for Aerial-Ground Person Re-Identification**[[paper]](https://openreview.net/pdf?id=UJ0pv2KKVh)
 - ICLR 2026 **ReText: Text Boosts Generalization in Image-Based Person Re-identification**[[paper]](https://openreview.net/pdf?id=Es5dr0LDau)
