@@ -1,6 +1,7 @@
 # Representation Learning
 ## 11.3
 - **Real-Time Object Detection Meets DINOv3**[[paper]](https://arxiv.org/pdf/2509.20787)
+- **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**[[paper]](https://arxiv.org/pdf/2103.14030)
 ## 10.27
 - NeurIPS 2024**Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**[[paper]](https://arxiv.org/pdf/2410.21802)
 - CVPR 2025 **VGGT: Visual Geometry Grounded Transformer**[[paper]](https://arxiv.org/pdf/2503.11651)Transform for 3D
