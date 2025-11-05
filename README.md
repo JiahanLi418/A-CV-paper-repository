@@ -1,5 +1,6 @@
 # Representation Learning
 ## 11.3
+- **Frefusion_Frequency_Domain_Transformer_for_Infrared_and_Visible_Image_Fusion**
 - **Real-Time Object Detection Meets DINOv3**[[paper]](https://arxiv.org/pdf/2509.20787)
 - **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows**[[paper]](https://arxiv.org/pdf/2103.14030)
 ## 10.27
