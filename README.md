@@ -1,5 +1,6 @@
 # Representation Learning
 ## 11.3
+- ICLR 2026 **BURES GENERALIZED CATEGORY DISCOVERY**[[paper]](https://openreview.net/pdf?id=nfVKTJ1MJ3)
 - **DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment**[[paper]](https://arxiv.org/pdf/2412.16334)
 - **Frefusion_Frequency_Domain_Transformer_for_Infrared_and_Visible_Image_Fusion**
 - **Real-Time Object Detection Meets DINOv3**[[paper]](https://arxiv.org/pdf/2509.20787)
