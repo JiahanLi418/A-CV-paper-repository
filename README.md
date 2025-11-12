@@ -1,4 +1,6 @@
 # Representation Learning
+## 11.10
+- ICLR 2026 **Background Matters Too: A Language-Enhanced Adversarial Framework for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2509.03032)
 ## 11.3
 - ICLR 2026 **BURES GENERALIZED CATEGORY DISCOVERY**[[paper]](https://openreview.net/pdf?id=nfVKTJ1MJ3)
 - **DINOv2 Meets Text: A Unified Framework for Image- and Pixel-Level Vision-Language Alignment**[[paper]](https://arxiv.org/pdf/2412.16334)
