@@ -1,5 +1,6 @@
 # Representation Learning
 ## 11.10
+- NeurIPS 2025 **MDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification**[[paper]](https://arxiv.org/pdf/2510.23301)
 - ICLR 2026 **Background Matters Too: A Language-Enhanced Adversarial Framework for Person Re-Identification**[[paper]](https://arxiv.org/pdf/2509.03032)
 ## 11.3
 - ICLR 2026 **BURES GENERALIZED CATEGORY DISCOVERY**[[paper]](https://openreview.net/pdf?id=nfVKTJ1MJ3)
