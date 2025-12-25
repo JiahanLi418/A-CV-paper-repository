@@ -1,55 +1,5 @@
 # 📚 Academic Papers
 
-## 🔗 Representation Learning
-- **[NeurIPS 2025] MDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification**  
-  [[paper]](https://arxiv.org/pdf/2510.23301)
-- **[ICLR 2026] Background Matters Too: A Language-Enhanced Adversarial Framework for Person Re-Identification**  
-  [[paper]](https://arxiv.org/pdf/2509.03032)
-- **[ICLR 2026] BURES GENERALIZED CATEGORY DISCOVERY**  
-  [[paper]](https://openreview.net/pdf?id=nfVKTJ1MJ3)
-- **[DINOv2 Meets Text] A Unified Framework for Image- and Pixel-Level Vision-Language Alignment**  
-  [[paper]](https://arxiv.org/pdf/2412.16334)
-- **[Frefusion] Frequency Domain Transformer for Infrared and Visible Image Fusion**  
-- **[Real-Time Object Detection] Meets DINOv3**  
-  [[paper]](https://arxiv.org/pdf/2509.20787)
-- **[Swin Transformer] Hierarchical Vision Transformer using Shifted Windows**  
-  [[paper]](https://arxiv.org/pdf/2103.14030)
-- **[NeurIPS 2024] Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**  
-  [[paper]](https://arxiv.org/pdf/2410.21802)
-- **[CVPR 2025] VGGT: Visual Geometry Grounded Transformer for 3D**  
-  [[paper]](https://arxiv.org/pdf/2503.11651)
-- **[ICLR 2026] PRADA: Prompt-driven Dual Alignment with Actor-Critic Rewards for Aerial-Ground Person Re-Identification**  
-  [[paper]](https://openreview.net/pdf?id=UJ0pv2KKVh)
-- **[ICLR 2026] ReText: Text Boosts Generalization in Image-Based Person Re-identification**  
-  [[paper]](https://openreview.net/pdf?id=Es5dr0LDau)
-- **[ICLR 2026] Domain Generalizable Person Re-identification via Adversarial Dual-Stream Strategy with Local Consistency**  
-  [[paper]](https://openreview.net/pdf?id=RtjeGHURQS)
-- **[ICLR 2026] CROSS-VIEW OPEN-VOCABULARY OBJECT DETECTION IN AERIAL IMAGERY**  
-  [[paper]](https://openreview.net/attachment?id=QgTA3AvUC5&name=pdf)
-- **[SegMASt3R] Geometry Grounded Segment Matching**  
-  [[paper]](https://arxiv.org/pdf/2510.05051)
-- **[NeurIPS 2025] Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval**  
-  [[paper]](https://arxiv.org/pdf/2311.16515) | [[code]](https://github.com/Delong-liu-bupt/Composed_Person_Retrieval)
-- **[Vision-Free Retrieval] Rethinking Multimodal Search with Textual Scene Descriptions**  
-  [[paper]](https://arxiv.org/pdf/2509.19203)
-- **[PARTCO] PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**  
-  [[paper]](https://arxiv.org/pdf/2509.22769)
-- **[CVPR 2025] Introducing Visual Perception Token into Multimodal Large Language Model**  
-  [[paper]](https://arxiv.org/pdf/2502.17425v1)
-- **[ICLR 2025] Near, far: Patch-ordering enhances vision foundation models' scene understanding**  
-  [[paper]](https://arxiv.org/pdf/2408.11054)
-- **[ICLR 2026] ADAST: ADAPTIVE SEMANTIC TRANSFORMATION OF VISUAL REPRESENTATION FOR TRAINING-FREE ZERO-SHOT COMPOSED IMAGE RETRIEVAL**  
-  [[paper]](https://openreview.net/attachment?id=CQ2n2H5x6c&name=pdf)
-- **[ICCV 2025] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**  
-  [[paper]](https://arxiv.org/pdf/2411.19331)
-- **[No time to train!] Training-Free Reference-Based Instance Segmentation**  
-  [[paper]](https://arxiv.org/pdf/2507.02798)
-
----
-
-## 🧩 Grounding
-- **[ICCV 2025] AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**  
-  [[paper]](https://arxiv.org/pdf/2504.07836) | [[code]](https://github.com/Ideal-ljl/AerialVG)
 
 ---
 
@@ -63,7 +13,7 @@
   [[paper]](https://arxiv.org/pdf/2505.04793) | [[code]](https://github.com/kailashhambarde/DetReIDX)
 
 ### 📅 2025
-- **[CVPR] Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings**  
+- **[ICCV] Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings**  
   [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yao_Unsupervised_Visible-Infrared_Person_Re-identification_under_Unpaired_Settings_ICCV_2025_paper.pdf) | [[code]](https://github.com/USL-VI-ReID/MCL)
 - **[ICCV] Cross-modal Ship Re-Identification via Optical and SAR Imagery**  
   [[paper]](https://arxiv.org/abs/2506.22027) | [[code]](https://github.com/Alioth2000/Hoss-ReID)
@@ -149,6 +99,61 @@
   [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25225)
 - **[ICCV 2023] Unified Pre-Training with Pseudo Texts for Text-To-Image Person Re-identification**  
   [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Shao_Unified_Pre-Training_with_Pseudo_Texts_for_Text-To-Image_Person_Re-Identification_ICCV_2023_paper.pdf)
+
+
+
+
+## 🔗 Representation Learning
+- **[NeurIPS 2025] MDReID: Modality-Decoupled Learning for Any-to-Any Multi-Modal Object Re-Identification**  
+  [[paper]](https://arxiv.org/pdf/2510.23301)
+- **[ICLR 2026] Background Matters Too: A Language-Enhanced Adversarial Framework for Person Re-Identification**  
+  [[paper]](https://arxiv.org/pdf/2509.03032)
+- **[ICLR 2026] BURES GENERALIZED CATEGORY DISCOVERY**  
+  [[paper]](https://openreview.net/pdf?id=nfVKTJ1MJ3)
+- **[DINOv2 Meets Text] A Unified Framework for Image- and Pixel-Level Vision-Language Alignment**  
+  [[paper]](https://arxiv.org/pdf/2412.16334)
+- **[Frefusion] Frequency Domain Transformer for Infrared and Visible Image Fusion**  
+- **[Real-Time Object Detection] Meets DINOv3**  
+  [[paper]](https://arxiv.org/pdf/2509.20787)
+- **[Swin Transformer] Hierarchical Vision Transformer using Shifted Windows**  
+  [[paper]](https://arxiv.org/pdf/2103.14030)
+- **[NeurIPS 2024] Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**  
+  [[paper]](https://arxiv.org/pdf/2410.21802)
+- **[CVPR 2025] VGGT: Visual Geometry Grounded Transformer for 3D**  
+  [[paper]](https://arxiv.org/pdf/2503.11651)
+- **[ICLR 2026] PRADA: Prompt-driven Dual Alignment with Actor-Critic Rewards for Aerial-Ground Person Re-Identification**  
+  [[paper]](https://openreview.net/pdf?id=UJ0pv2KKVh)
+- **[ICLR 2026] ReText: Text Boosts Generalization in Image-Based Person Re-identification**  
+  [[paper]](https://openreview.net/pdf?id=Es5dr0LDau)
+- **[ICLR 2026] Domain Generalizable Person Re-identification via Adversarial Dual-Stream Strategy with Local Consistency**  
+  [[paper]](https://openreview.net/pdf?id=RtjeGHURQS)
+- **[ICLR 2026] CROSS-VIEW OPEN-VOCABULARY OBJECT DETECTION IN AERIAL IMAGERY**  
+  [[paper]](https://openreview.net/attachment?id=QgTA3AvUC5&name=pdf)
+- **[SegMASt3R] Geometry Grounded Segment Matching**  
+  [[paper]](https://arxiv.org/pdf/2510.05051)
+- **[NeurIPS 2025] Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval**  
+  [[paper]](https://arxiv.org/pdf/2311.16515) | [[code]](https://github.com/Delong-liu-bupt/Composed_Person_Retrieval)
+- **[Vision-Free Retrieval] Rethinking Multimodal Search with Textual Scene Descriptions**  
+  [[paper]](https://arxiv.org/pdf/2509.19203)
+- **[PARTCO] PART-LEVEL CORRESPONDENCE PRIORS ENHANCE CATEGORY DISCOVERY**  
+  [[paper]](https://arxiv.org/pdf/2509.22769)
+- **[CVPR 2025] Introducing Visual Perception Token into Multimodal Large Language Model**  
+  [[paper]](https://arxiv.org/pdf/2502.17425v1)
+- **[ICLR 2025] Near, far: Patch-ordering enhances vision foundation models' scene understanding**  
+  [[paper]](https://arxiv.org/pdf/2408.11054)
+- **[ICLR 2026] ADAST: ADAPTIVE SEMANTIC TRANSFORMATION OF VISUAL REPRESENTATION FOR TRAINING-FREE ZERO-SHOT COMPOSED IMAGE RETRIEVAL**  
+  [[paper]](https://openreview.net/attachment?id=CQ2n2H5x6c&name=pdf)
+- **[ICCV 2025] Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**  
+  [[paper]](https://arxiv.org/pdf/2411.19331)
+- **[No time to train!] Training-Free Reference-Based Instance Segmentation**  
+  [[paper]](https://arxiv.org/pdf/2507.02798)
+
+---
+
+## 🧩 Grounding
+- **[ICCV 2025] AerialVG: A Challenging Benchmark for Aerial Visual Grounding by Exploring Positional Relations**  
+  [[paper]](https://arxiv.org/pdf/2504.07836) | [[code]](https://github.com/Ideal-ljl/AerialVG)
+
 
 ---
 
