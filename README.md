@@ -63,6 +63,8 @@
   [[paper]](https://arxiv.org/pdf/2505.04793) | [[code]](https://github.com/kailashhambarde/DetReIDX)
 
 ### 📅 2025
+- **[CVPR] Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings**  
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Yao_Unsupervised_Visible-Infrared_Person_Re-identification_under_Unpaired_Settings_ICCV_2025_paper.pdf) | [[code]](https://github.com/USL-VI-ReID/MCL)
 - **[ICCV] Cross-modal Ship Re-Identification via Optical and SAR Imagery**  
   [[paper]](https://arxiv.org/abs/2506.22027) | [[code]](https://github.com/Alioth2000/Hoss-ReID)
 - **[CVPR] SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification**  
