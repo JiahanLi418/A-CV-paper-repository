@@ -1,4 +1,9 @@
-## 🔗 Quick Links
+<div align="center">
 
-- **[✨ See the AGP-ReID](AGP-ReID.md)**
-- **[🌍 See the Other Area](others.md)**
+# 🔗 Quick Links
+
+### <a href="AGP-ReID.md">✨ See the AGP-ReID</a>
+
+### <a href="others.md">🌍 See the Other Area</a>
+
+</div>
