@@ -1,13 +1,14 @@
-### 📅 2025
-- **[Neurips] GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification**
-  [[paper]](https://arxiv.org/pdf/2510.22268) | [[code]](https://github.com/stone96123/GSAlign)
+### 📅 2025  
+- **[Neurips] GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification**  
+  [[paper]](https://arxiv.org/pdf/2510.22268) | [[code]](https://github.com/stone96123/GSAlign)  
 - **[CVPR] SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification**  
-  [[paper]](https://arxiv.org/pdf/2503.06965) | [[code]](https://github.com/wangshining681/SeCap-AGPReID)
+  [[paper]](https://arxiv.org/pdf/2503.06965) | [[code]](https://github.com/wangshining681/SeCap-AGPReID)  
 - **[CVPR] AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**  
-  [[paper]](https://arxiv.org/pdf/2503.08121) | [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
-
-
-
+  [[paper]](https://arxiv.org/pdf/2503.08121) | [[code]](https://github.com/agvpreid25/AG-VPReID-Net)  
+- **[ICCV] Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification**  
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Khalid_Bridging_the_Sky_and_Ground_Towards_View-Invariant_Feature_Learning_for_ICCV_2025_paper.pdf) |
+- **[drones] Unsupervised Aerial-Ground Re-Identification from Pedestrian to Group for UAV-Based Surveillance**  
+  [[paper]](https://www.mdpi.com/2504-446X/9/4/244) |
 ### 📅 2024
 - **[CVPR] View-decoupled Transformer for Person Re-identification under Aerial-ground Camera Network**  
   [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_View-decoupled_Transformer_for_Person_Re-identification_under_Aerial-ground_Camera_Network_CVPR_2024_paper.pdf) | [[code]](https://github.com/LinlyAC/VDT-AGPReID)
