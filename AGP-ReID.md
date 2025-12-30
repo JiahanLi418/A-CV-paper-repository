@@ -1,7 +1,10 @@
 ### 📅 2025
 - **[Neurips] GSAlign: Geometric and Semantic Alignment Network for Aerial-Ground Person Re-Identification**
   [[paper]](https://arxiv.org/pdf/2510.22268) | [[code]](https://github.com/stone96123/GSAlign)
-
+- **[CVPR] SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification**  
+  [[paper]](https://arxiv.org/pdf/2503.06965) | [[code]](https://github.com/wangshining681/SeCap-AGPReID)
+- **[CVPR] AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**  
+  [[paper]](https://arxiv.org/pdf/2503.08121) | [[code]](https://github.com/agvpreid25/AG-VPReID-Net)
 
 
 
